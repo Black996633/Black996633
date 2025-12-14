@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Black996633/old-Black996633/commit/700024c9](https://github.com/Black996633/Black996633/blob/main/WhatsApp%20Image%202025-12-14%20at%205.15.25%20AM.jpeg)"
+  <img src="https://github.com/Black996633/Black996633/blob/main/1.jpeg"
        style="width:100%; max-width:1200px; height:auto;" />
 </p>
 <h1 align="center">Hi 👋, I'm Shubham</h1>
