@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Black996633/Black996633/blob/main/1.jpeg"
-       style="width:100%; max-width:1200px; height:auto;" />
+    width="1200"
+    style="max-width:1200px; height:450px; border-radius:12px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
